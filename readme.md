@@ -1,4 +1,4 @@
-Simple Implementation of DynamoDB APIs
+Simple Implementation of DynamoDB APIs for a Bidding Application,
 
 To create the DynamoDB Table run "npm run create:bid-table"
 
